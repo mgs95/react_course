@@ -1,0 +1,10 @@
+.Sidebar {
+  width: 100%;
+  max-width: 20%;
+  height: 100%;
+  background-color: #d0d3d4;
+  transition: max-width ease 0.3s;
+  z-index: 1;
+  box-shadow: rgb(43, 48, 55) -10px 11px 11px 10px;
+  overflow: hidden;
+}

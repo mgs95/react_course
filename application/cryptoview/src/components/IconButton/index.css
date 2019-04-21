@@ -1,0 +1,7 @@
+.IconButton {
+  height: 100%;
+  width: fit-content;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
